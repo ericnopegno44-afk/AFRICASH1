@@ -1,0 +1,1 @@
+<?php header('Content-Type: application/json'); echo json_encode(['ok'=>false,'message'=>'Paiement réel non activé dans la version test.']);
